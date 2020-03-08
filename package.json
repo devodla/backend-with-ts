@@ -1,0 +1,13 @@
+{
+  "name": "firts-backend-typescript",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Reynaldo Layme <layme.reynaldo@icloud.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
