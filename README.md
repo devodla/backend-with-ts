@@ -25,3 +25,22 @@ This will be a practical example to start using Typescript, more oriented to lon
 
 1. Express
 2. Commitlint, commitizen and Husky
+
+## Starting
+
+```console
+backend on  master
+> git checkout feature/main_features
+```
+
+```console
+backend on  feature/main_features
+> yarn
+```
+
+```console
+backend on  feature/main_features
+> yarn dev
+```
+
+==> http://localhost:3333/
