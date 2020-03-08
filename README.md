@@ -1,6 +1,6 @@
-<h3 align="center">
-  Backend with Typescript
-</h3>
+<h2 align="center">
+  :rocket: Backend with Typescript
+</h2>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/onlyreynaldo/backend-with-ts?color=%2304D361">
@@ -16,14 +16,12 @@
 
 This will be a practical example to start using Typescript, more oriented to long term productivity.
 
-## :rocket: Features
+## Features
 
-### 1. Express with types
+1. Express with types
+2. Call API RESTful
 
-### 2. Call API RESTful
+## Technologies
 
-## :rocket: Technologies
-
-### 1. Express
-
-### 2. Commitlint, commitizen and Husky
+1. Express
+2. Commitlint, commitizen and Husky
